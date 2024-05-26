@@ -19,8 +19,9 @@
 
 **Project Goals:** 
 
-1.**Profit and Loss (P&L) Reports**: Created [P&L reports by fiscal years](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months]().
-2.**P&L Reports by Markets**: Generated P&L reports categorized by markets.
+1.**Profit and Loss (P&L) Reports**: Created [P&L reports by fiscal years](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+
+2.**P&L Reports by Markets**: Generated P&L reports categorized by [markets.]()
 
 **Finance Analytics Purpose**: Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
