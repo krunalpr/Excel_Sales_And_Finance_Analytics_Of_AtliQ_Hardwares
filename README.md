@@ -1,1 +1,5 @@
-# Sales_And_Finance_Analytics_Of_AtliQ_Hardwares
+# Sales And Finance Analytics Of AtliQ_Hardwares:
+
+## Sales Report:
+
+**Project Goals:** 
