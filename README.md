@@ -4,7 +4,7 @@
 
 **Project Goals:** 
 
-1.**Customer Performance Report**: Created a detailed [report] to assess customer performance.
+1.**Customer Performance Report**: Created a detailed [report](Customer Performance Report.pdf)to assess customer performance.
 
 2.**Market Performance Comparison**: Conducted a thorough analysis comparing [market performance] against sales targets.
 
